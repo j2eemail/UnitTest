@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitTest</string>
+
+    <string name="lgoin_btn">登录</string>
+    <string name="lgoin_reset_btn">重置</string>
+    <string name="txt">登录成功！</string>
+</resources>
